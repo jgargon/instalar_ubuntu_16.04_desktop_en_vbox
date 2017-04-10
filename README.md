@@ -4,7 +4,7 @@
 
 El tutorial está hecho con la versión de Ubuntu 16.04.2. Descargar la imagen ISO de la siguiente dirección:
 
-* [https://www.ubuntu.com/download/desktop](https://www.ubuntu.com/download/desktop)
+* [http://releases.ubuntu.com/16.04/ubuntu-16.04.2-desktop-amd64.iso](http://releases.ubuntu.com/16.04/ubuntu-16.04.2-desktop-amd64.iso)
 
 ## Creación de la Máquina Virtual
 
