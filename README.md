@@ -1,5 +1,11 @@
 # Instalar Ubuntu Desktop 16.04 sobre VirtualBox
 
+## Descargar imagen de Ubuntu 16.04
+
+El tutorial está hecho con la versión de Ubuntu 16.04.2. Descargar la imagen ISO de la siguiente dirección:
+
+* [https://www.ubuntu.com/download/desktop](https://www.ubuntu.com/download/desktop)
+
 ## Creación de la Máquina Virtual
 
 Abrir el VirtualBox y crear una nueva máquina virtual pulsando en el botón _Nueva_:
